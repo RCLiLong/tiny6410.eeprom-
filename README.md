@@ -8,3 +8,6 @@ eer		可执行文件，导入/opt/Qtopia/bin 中使用
 eer.desktop	桌面文件，导入/opt/Qtopia/apps/Applications中使用
 main_form_base.ui	qt的ui文件
 buildarm.sh Makefile.target	提供在文件目录./buildarm.sh一键编译功能（如果没有权限，请chmod 777 buildarm.sh）
+
+效果：
+![Image]https://github.com/Chenyz520/tiny6410.eeprom-/blob/main/image.png
